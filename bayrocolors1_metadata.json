@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "outer_figure" : "Square",
+      "color" : "Endeavour Blue"
+    }, {
+      "inner_figuree" : "Circle",
+      "color" : "Arctic Lime"
+    } ],
+    "description" : "Geometric figures grouped with 2 of the 3 Bayro colors",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmbpRueVcQy2Mx2btEo1PaqHBepbM9CG5XB2GPvjb5C2Dq",
+    "name" : "Bayro Color 1"
+}

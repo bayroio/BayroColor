@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "outer_figure" : "Square",
+      "color" : "Bugambilia"
+    }, {
+      "inner_figuree" : "Circle",
+      "color" : "Endeavour Blue"
+    } ],
+    "description" : "Geometric figures grouped with 2 of the 3 Bayro colors",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmS1VCf2hgqduJ2MPke1YqYj4aadKoPnc8mS3wVa69XGsE",
+    "name" : "Bayro Color 3"
+}

@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "outer_figure" : "Square",
+      "color" : "Arctic Lime"
+    }, {
+      "inner_figuree" : "Circle",
+      "color" : "Bugambilia"
+    } ],
+    "description" : "Geometric figures grouped with 2 of the 3 Bayro colors",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmerjYy2ijiPzXbbjQJkkKbMii4qWi3jzVQjVCuboz4Ysf",
+    "name" : "Bayro Color 2"
+}
